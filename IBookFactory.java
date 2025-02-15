@@ -1,0 +1,3 @@
+interface IBookFactory {
+    IBook publishBook();
+}
