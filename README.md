@@ -34,3 +34,4 @@ cd book-publishing-system
 
 # Compile the Java files
 javac *.java
+
